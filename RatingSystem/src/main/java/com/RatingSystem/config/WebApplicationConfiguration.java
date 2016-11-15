@@ -11,11 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
-/**
- * 
- * @author Brillio Technologies Pvt Ltd
- *
- */
+
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = "com.RatingSystem")
