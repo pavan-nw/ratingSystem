@@ -10,11 +10,6 @@ import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
 
-/**
- * 
- * @author Brillio Technologies Pvt Ltd
- *
- */
 
 /**
  * Deals with the Application Initialization management. Below shown operations are executed 
